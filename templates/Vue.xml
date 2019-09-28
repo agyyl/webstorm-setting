@@ -1,0 +1,7 @@
+<templateSet group="Vue">
+  <template name="vue" value="&lt;template&gt;&#10;  &lt;div&gt;&#10;  &lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;  export default {&#10;    data () {&#10;      return {&#10;&#10;      }&#10;    },&#10;    components: {&#10;    },&#10;    computed: {&#10;    },&#10;    mounted() {&#10;    },&#10;    methods: {&#10;    },&#10;    watch: {&#10;    },&#10;  }&#10;&lt;/script&gt;&#10;&#10;&lt;style lang=&quot;scss&quot; scpoed&gt;&#10;&#10; &#10;&lt;/style&gt;&#10;" description="a single vue component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
