@@ -2,11 +2,31 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="QuickChangeScheme" />
+  <action id="SendEOF" />
+  <action id="Uml.ShowDiff" />
+  <action id="ViewSource" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
