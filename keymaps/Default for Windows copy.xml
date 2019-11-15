@@ -24,6 +24,14 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="SendEOF" />
   <action id="Uml.ShowDiff" />
