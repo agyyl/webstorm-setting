@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="themColorMap.js" type="AUTO_DETECTED" />
       <mapping pattern=".gitingore" type="AUTO_DETECTED" />
+      <mapping pattern="aa" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
