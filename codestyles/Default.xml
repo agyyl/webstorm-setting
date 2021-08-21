@@ -1,4 +1,6 @@
 <code_scheme name="Default" version="173">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_UNIFORM_INDENT" value="true" />
   </HTMLCodeStyleSettings>
