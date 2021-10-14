@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="desc" value="/**&#10;* @description: $description$&#10;* @author: $author$&#10;* @date: $date$&#10;* @LastEditors: $user$&#10;* @LastEditTime: $updateDate$&#10;*/&#10;" description="文件文档注释" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="author" expression="" defaultValue="yyl" alwaysStopAt="false" />
+    <variable name="date" expression="data(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="user" expression="" defaultValue="yyl" alwaysStopAt="true" />
+    <variable name="updateDate" expression="data(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
