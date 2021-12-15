@@ -2,9 +2,15 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;dist;node_models;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern=".prettierignore" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern="themColorMap.js" type="AUTO_DETECTED" />
       <mapping pattern=".gitingore" type="AUTO_DETECTED" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
