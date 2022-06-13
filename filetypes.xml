@@ -6,11 +6,6 @@
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern="themColorMap.js" type="AUTO_DETECTED" />
       <mapping pattern=".gitingore" type="AUTO_DETECTED" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
