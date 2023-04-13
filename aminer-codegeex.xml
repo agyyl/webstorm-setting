@@ -1,0 +1,6 @@
+<application>
+  <component name="aminer-codegeex">
+    <option name="telemetryEnabled" value="true" />
+    <option name="telemetryConfigured" value="true" />
+  </component>
+</application>

@@ -6,6 +6,8 @@
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern="themColorMap.js" type="AUTO_DETECTED" />
       <mapping pattern=".gitingore" type="AUTO_DETECTED" />
+      <mapping pattern=".env.dev" type="AUTO_DETECTED" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
     </extensionMap>
   </component>
 </application>

@@ -4,17 +4,17 @@
     <property name="created">2022-05-31T10:15:36</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-31T10:37:37</property>
+    <property name="modified">2023-03-30T11:13:36</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
