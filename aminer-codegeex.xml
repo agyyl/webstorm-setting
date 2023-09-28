@@ -8,6 +8,8 @@
     <option name="email" value="1294489934@qq.com" />
     <option name="source" value="github" />
     <option name="sourceId" value="29178539" />
+    <option name="configCacheSeconds" value="43200" />
+    <option name="minCompletionDelay" value="500" />
     <option name="lastPluginVersion" value="2.0.0" />
   </component>
 </application>
